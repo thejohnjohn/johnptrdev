@@ -1,2 +1,7 @@
+@use 'sections/navbar';
+
 @import "../node_modules/bootstrap/scss/bootstrap";
 
+:root {
+    font-family: 'League Spartan', sans-serif;
+}
